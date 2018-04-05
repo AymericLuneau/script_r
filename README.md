@@ -1,2 +1,2 @@
 # script_r
-regroupe mes scrip R
+regroupe mes script R
